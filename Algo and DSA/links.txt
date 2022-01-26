@@ -1,5 +1,0 @@
-abdul bari
-
-
-1. Quick Sort Time Complexity O(logn)
-2. Linear Search in list O(n)
